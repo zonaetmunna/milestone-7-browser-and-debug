@@ -1,0 +1,23 @@
+.email-body{
+text-align: center;
+     width: auto;
+     background-color: burlywood;
+     color: chartreuse;
+}
+.input-field{
+     padding: 10px;
+     margin: 5px;
+     width: 400px;
+     background-color: darkblue;
+     color: white;
+     border: 3px solid white;
+     border-radius: 20px;
+}
+.button-field{
+     background-color: darkorchid;
+     color: white;
+     width: 200px;
+     padding: 20px;
+     margin: 10px;
+     font-size: large;
+}
